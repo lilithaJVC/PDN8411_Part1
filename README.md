@@ -27,17 +27,21 @@
  
 <h3>Introduction </h3> 
  
-This section contains a detailed, and a comprehensive plan for conducting a linear regression analysis in order to predict medical charges based on the lifestyle as well as demographic factors. The main objective is to make sure that all aspects of the data analysis process are considered carefully and closely executed to develop a model that is accurate and effective.  
-a) Exploratory Data Analysis (EDA):   
+<p><h4>This section contains a detailed, and a comprehensive plan for conducting a linear regression analysis in order to predict medical charges based on the lifestyle as well as demographic factors. The main objective is to make sure that all aspects of the data analysis process are considered carefully and closely executed to develop a model that is accurate and effective.  </h4></p> 
+
+<p><h4>a)<h3>Exploratory Data Analysis (EDA):</h3>   
+ 
 Data Loading and Inspection: 
-(Andrea and Sarah, 2016) showed that the datasets that are provided will be loaded using pandas on vs code, this will be followed by the inspection of data types. (.info ()), then there will be a summary of descriptive statistics (. describe ()), then an examination of the values that are missing.  
-Data Cleaning: 
+(Andrea and Sarah, 2016) showed that the datasets that are provided will be loaded using pandas on vs code, this will be followed by the inspection of data types. (.info ()), then there will be a summary of descriptive statistics (. describe ()), then an examination of the values that are missing.  </h4></p> 
+
+<p><h4>Data Cleaning: 
 (Andrea and Sarah, 2016) showed that if there are any missing values, they will be dealt with using imputation methods that are appropriate, these methods include mean or median for features that are numerical, and mode for those that are categorical. If there are any outliers, they will be identified and addressed using box ploys and z-score analysis, maybe by transforming values. Rows that are duplicate will be removed to ensure data integrity.  
-Data Visualization: 
-(Andrea and Sarah, 2016) showed that in order to visualise the relationships between variables I will implement seaborn and matplotlib. Also, the scatter plots will be implemented to illustrate the correlation between the features that are numerical and charges. The distribution of features that are numerical will be shown using distribution plots and histograms. In order to estimate the multicollinearity among numerical predictors, there will be a creation of correlation matrix (heatmap). 
+</h4></p>
+<p><h4>data Visualization: 
+(Andrea and Sarah, 2016) showed that in order to visualise the relationships between variables I will implement seaborn and matplotlib. Also, the scatter plots will be implemented to illustrate the correlation between the features that are numerical and charges. The distribution of features that are numerical will be shown using distribution plots and histograms. In order to estimate the multicollinearity among numerical predictors, there will be a creation of correlation matrix (heatmap). </p></h4> 
  
  
- b) Feature Selection:  
+< b)<h3> Feature Selection:  </h3>
  
 (Andrea and Sarah, 2016) showed that Feature selection is important because it ensures that there is an inclusion of the variables that are most relevant and non-redundant in the regression model.  
 Correlation matrix: (Andrea and Sarah, 2016) showed that this will visualise pairwise correlations between features and the variable targeted.  
