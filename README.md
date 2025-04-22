@@ -14,7 +14,7 @@
 
 <h1>Dataset overview </h1>  
 
-<p>Insurance.csv is the dataset that was provided and used in this analysis, it has the following features:
+<p><h3>Insurance.csv is the dataset that was provided and used in this analysis, it has the following features:
 <ol>•	Age: the age of a beneficiary </ol>
 <ol>•	Sex: which is the gender of the beneficiary </ol>
 <ol>•	BMI: body mass index </ol>
@@ -23,5 +23,5 @@
 <ol>•	Region: the area of residential in the US</ol>
 <ol>•	Chargers: the medical insurance cost (target variable)</ol>
 The dataset was successfully loaded, and the rows were printed in order to inspect the structure of the data. The number of rows entirely is 1338. 
-</p>
+</h3></p>
 
