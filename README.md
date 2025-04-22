@@ -90,9 +90,24 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 
 <table>
 <tr>
+  
 <td width="33%">
 metric 
 </td>
+<td width="33%">
+Mean absolute error (MAE)
+</td>
+<td width="33%">
+Mean square error (MSE)
+</td>
+<td width="33%">
+Root Mean Square (RMS)
+</td>
+<td width="33%">
+R² Score
+</td>
+
+
 <td width="33%">
 value
 </td>
