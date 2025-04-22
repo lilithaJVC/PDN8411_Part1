@@ -100,13 +100,15 @@ metric
 Mean absolute error (MAE)
 </td></tr>
 
-<td width="33%">
+<tr><td width="33%">
 Mean square error (MSE)
-</td>
-<td width="33%">
+</td></tr>
+
+<tr><td width="33%">
 Root Mean Square (RMS)
-</td>
-<td width="33%">
+</td></tr>  
+
+<tr><td width="33%">
 R² Score
 </td>
 </tr>
