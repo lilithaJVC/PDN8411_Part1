@@ -41,3 +41,34 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h3>•	The new shape of the dataset is now (1308, 7)
 </h3>
 
+
+<h1>Exploratory Data Analysis</h1>  
+
+<h3>-Distribution Plots </h3>
+<h3>•	For each numerical value, Histograms and KDE plots were plotted.</h3>
+<h3>•	Age, BMI, Children as well as charges showed different degrees of skewness</h3>
+<h3>-Scatter plots </h3>
+
+<h3>Scatter plots were created to show the relationship between:</h3>
+<h3>•	Age, BMI, as well as children vs chargers, with smokers highlighted </h3>
+<h3>•	There is a strong positive trend observed for smokers more especially in BMI vs charges </h3>
+
+<h3>-Box Plots </h3>
+<h3>The implementation of box plots grouped charges by:</h3>
+<h3>•	Smoker, sex, and region</h3>
+<h3>•	Smokers had higher charges </h3>
+
+<h4>-Correlation heatmap </h4>
+<h4>•	The correlation matrix displayed a strong correlation between smoker and charges </h4>
+<h4>•	It also displayed a moderate correlation between the age and charges </h4>
+
+
+<h1>Feature selection </h1>  
+
+<h4>The features that most correlated with charges are:</h4>
+<h4>•	Smoker </h4>
+<h4>•	Age </h4>
+<h4>•	Bmi </h4>
+<h4>VIF analysis as well as model training were influenced by these observations.</h4>
+
+
