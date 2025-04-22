@@ -62,6 +62,13 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h4>•	Age, BMI, Children as well as charges showed different degrees of skewness</h4>
 
 <h3>-Scatter plots </h3>
+
+![Image](https://github.com/user-attachments/assets/f9d16bc6-5e92-492d-a6f1-0c73420ba0a1)
+
+![Image](https://github.com/user-attachments/assets/076407d1-ddcb-4f4d-a857-7366dd4893b0)
+
+![Image](https://github.com/user-attachments/assets/3ecbce5b-26c9-4ab1-bba1-3ed91a2b6532)
+
 <h4>Scatter plots were created to show the relationship between:</h4>
 <h4>•	Age, BMI, as well as children vs chargers, with smokers highlighted </h4>
 <h4>•	There is a strong positive trend observed for smokers more especially in BMI vs charges </h4>
