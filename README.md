@@ -91,14 +91,12 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <table>
 <tr>
 <td width="33%">
-The quick brown fox jumps over the lazy dog.
+metric 
 </td>
 <td width="33%">
-The quick brown fox jumps over the lazy dog.
+value
 </td>
-<td width="33%">
-The quick brown fox jumps over the lazy dog.
-</td>
+
 </tr>
 </table>
 
