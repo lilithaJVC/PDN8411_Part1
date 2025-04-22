@@ -112,7 +112,7 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 
 
 <h1></h1>
-<p>The linear regression model provides a strong predictive performance for medical insurance charges. Among the predictors, smoking status, age, and BMI have the most significant influence on charges. The model performed well with a reasonably high R² score and acceptable error metrics. This analysis highlights the value of lifestyle attributes in predicting healthcare costs, which could be useful for healthcare providers and insurance companies to assess risk and set premiums.</p>
+<p><h4>The linear regression model provides a strong predictive performance for medical insurance charges. Among the predictors, smoking status, age, and BMI have the most significant influence on charges. The model performed well with a reasonably high R² score and acceptable error metrics. This analysis highlights the value of lifestyle attributes in predicting healthcare costs, which could be useful for healthcare providers and insurance companies to assess risk and set premiums.</h4></p>
 
 
 
