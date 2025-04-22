@@ -25,3 +25,19 @@
 The dataset was successfully loaded, and the rows were printed in order to inspect the structure of the data. The number of rows entirely is 1338. 
 </h3></p>
 
+<h1>Data pre-processing </h1>  
+<h3>a)Encoding and categorical variables </h3>
+<h3>For model complexity, categorical variables were encoded. These variables are:</h3>
+<h3>•	Sex and smoker – these were binary encoded.</h3>
+<h3>•	Region was one-hot encoded with drop first = true, this was done to avoid dummy variable trap. </h3>
+
+<h3>b)	Missing variables and data types </h3>
+<h3>the next step was to check for any missing values and found that there were no missing values in the data. All the data types were good for the analysis. </h3>
+<h3>c)	Duplicate rows:</h3>
+<h3>•	We found 1 duplicate row, and that row was then dropped or removed, and the new structure or number of rows is now 1337. </h3>
+<h3>d)	Outlier detection and removal </h3>
+<h3>•	To detect outliers, the Z-score method was implemented on the numerical columns (age, children, and charges). The entries what had the Z-score of greater than 3 were removed. </h3>
+<h3>•	The total of outliers removed is 29 rows</h3>
+<h3>•	The new shape of the dataset is now (1308, 7)
+</h3>
+
