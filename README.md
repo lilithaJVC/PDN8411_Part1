@@ -88,5 +88,19 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h4>There were predictions that were made on the test set. </h4>  
 <h3> Evaluation Metrics</h3>
 
+<table>
+<tr>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+</tr>
+</table>
+
 
 
