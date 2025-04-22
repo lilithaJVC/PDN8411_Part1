@@ -119,12 +119,12 @@ value
 </table>
 
 
-| Default | Left align | Center align | Right align |
+| Metric | Value | 
 | - | :- | :-: | -: |
-| 9999999999 | 9999999999 | 9999999999 | 9999999999 |
-| 999999999 | 999999999 | 999999999 | 999999999 |
-| 99999999 | 99999999 | 99999999 | 99999999 |
-| 9999999 | 9999999 | 9999999 | 9999999 |
+| Mean absolute error (MAE) | 9999999999 |
+| Mean square error (MSE) | 999999999 | 
+| Root Mean Square (RMS) | 99999999 |
+| R² Score | 9999999 |
 
 
 
