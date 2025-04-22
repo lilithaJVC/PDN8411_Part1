@@ -94,9 +94,12 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <td width="33%">
 metric 
 </td>
-<td width="33%">
+</tr>
+
+<tr><td width="33%">
 Mean absolute error (MAE)
-</td>
+</td></tr>
+
 <td width="33%">
 Mean square error (MSE)
 </td>
