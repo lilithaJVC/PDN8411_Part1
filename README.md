@@ -88,36 +88,6 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h4>There were predictions that were made on the test set. </h4>  
 <h3> Evaluation Metrics</h3>
 
-<table>
-
-  
-<td width="33%">
-metric 
-</td>
-
-
-<tr><td width="33%">
-Mean absolute error (MAE)
-</td></tr>
-
-<tr><td width="33%">
-Mean square error (MSE)
-</td></tr>
-
-<tr><td width="33%">
-Root Mean Square (RMS)
-</td></tr>  
-
-<tr><td width="33%">
-R² Score
-</td>
-</tr></table>
-
-<td width="33%">
-value
-</td>
-</table>
-
 
 | Metric | Value | 
 | - | :- | 
@@ -125,6 +95,27 @@ value
 | Mean square error (MSE) | 30444091,53 | 
 | Root Mean Square (RMS) | 5517,62 |
 | R² Score | 0,78 |
+
+<h3> Cross-validation</h3>
+<h4>5-fold cross-validation was performed.</h4>
+<h4>Average R² Score: 0,7503</h4>
+<h4>This shows consistency and generalizability of the model.</h4>
+
+ <h3>Visualization of Results</h3>
+<h4>Actual vs Predicted Charges</h4> 
+<h4>Scatter plot showed the relationship between actual and predicted values.</h4>
+<h4>•	Data points close to the diagonal line indicate a good fit.</h4>
+
+<h1>Residual Analysis</h1>
+<h4>•	Histogram of residuals showed a roughly normal distribution.</h4>
+<h4>•	Residuals vs predicted plot showed randomness around zero, suggesting linear model appropriateness.</h4>
+
+
+<h1></h1>
+<p>The linear regression model provides a strong predictive performance for medical insurance charges. Among the predictors, smoking status, age, and BMI have the most significant influence on charges. The model performed well with a reasonably high R² score and acceptable error metrics. This analysis highlights the value of lifestyle attributes in predicting healthcare costs, which could be useful for healthcare providers and insurance companies to assess risk and set premiums.</p>
+
+
+
 
 
 
