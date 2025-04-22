@@ -106,13 +106,13 @@ Root Mean Square (RMS)
 <td width="33%">
 R² Score
 </td>
-
+</tr>
 
 <td width="33%">
 value
 </td>
 
-</tr>
+
 </table>
 
 
