@@ -49,6 +49,15 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h1>Exploratory Data Analysis</h1>  
 
 <h3>-Distribution Plots </h3>
+
+![Image](https://github.com/user-attachments/assets/23f37e21-0831-4e0b-9106-7232f113c870)
+
+![Image](https://github.com/user-attachments/assets/4ad4ce58-7796-4ead-b679-d9bd6a483334)
+
+![Image](https://github.com/user-attachments/assets/3f76e36a-4fa3-44a7-aefa-1a49f8a33bd3)
+
+![Image](https://github.com/user-attachments/assets/4a1c1ff1-497a-4baf-b87a-bd2ef5ba3123)
+
 <h4>•	For each numerical value, Histograms and KDE plots were plotted.</h4>
 <h4>•	Age, BMI, Children as well as charges showed different degrees of skewness</h4>
 
