@@ -120,7 +120,7 @@ value
 
 
 | Metric | Value | 
-| - | :- | :-: | -: |
+| - | :- | 
 | Mean absolute error (MAE) | 9999999999 |
 | Mean square error (MSE) | 999999999 | 
 | Root Mean Square (RMS) | 99999999 |
