@@ -1,7 +1,7 @@
 # PDN8411_Part1
 <h1>Introduction</h1>
 
-<p><h3> In this report, a linear regression algorithm is used to present an accurate analysis and prediction of medical insurance charges.  The purpose of this is to understand the relationships between personal attributes as well as lifestyle for example age, BMI, smoking etc, and the collected medical charges.  This analysis adheres to the structured pipelines that involves data pre-processing, EDA which is exploratory data analysis, feature selection, model building, last but not least and the evaluation. The IDE used for this analysis is VS code, and the coding language used is python in a VS code Jupiter notebook.   </h3></p>
+<p><h4> In this report, a linear regression algorithm is used to present an accurate analysis and prediction of medical insurance charges.  The purpose of this is to understand the relationships between personal attributes as well as lifestyle for example age, BMI, smoking etc, and the collected medical charges.  This analysis adheres to the structured pipelines that involves data pre-processing, EDA which is exploratory data analysis, feature selection, model building, last but not least and the evaluation. The IDE used for this analysis is VS code, and the coding language used is python in a VS code Jupiter notebook.   </h4></p>
 
 <h1>Libraries used</h1>
 
@@ -26,7 +26,7 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 </h4></p>
 
 <h1>Data pre-processing </h1>  
-<h4>a)Encoding and categorical variables </h4>
+<h3>a)Encoding and categorical variables </h3>
 <h4>For model complexity, categorical variables were encoded. These variables are:</h4>
 <h4>•	Sex and smoker – these were binary encoded.</h4>
 <h4>•	Region was one-hot encoded with drop first = true, this was done to avoid dummy variable trap. </h4>
