@@ -89,12 +89,12 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h3> Evaluation Metrics</h3>
 
 <table>
-<tr>
+
   
 <td width="33%">
 metric 
 </td>
-</tr>
+
 
 <tr><td width="33%">
 Mean absolute error (MAE)
@@ -113,9 +113,11 @@ R² Score
 </td>
 </tr></table>
 
-<table><td width="33%">
+<td width="33%">
 value
-</td></table>
+</td>
+
+</table>
 
 
 
