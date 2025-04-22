@@ -33,7 +33,7 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 
 <h3>b)	Missing variables and data types </h3>
 <h4>the next step was to check for any missing values and found that there were no missing values in the data. All the data types were good for the analysis. </h4>
-<h4>c)	Duplicate rows:</h4>
+<h3>c)	Duplicate rows:</h3>
 <h4>•	We found 1 duplicate row, and that row was then dropped or removed, and the new structure or number of rows is now 1337. </h4>
 <h3>d)	Outlier detection and removal </h3>
 <h4>•	To detect outliers, the Z-score method was implemented on the numerical columns (age, children, and charges). The entries what had the Z-score of greater than 3 were removed. </h4>
