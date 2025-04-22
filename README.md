@@ -5,6 +5,8 @@
 
 <h1>Libraries used</h1>
 
+![Image](https://github.com/user-attachments/assets/c3d0f657-a0a4-401f-a778-d405c714e0e0) 
+
 <p><h4>In this coding analysis, there are libraries that were used, and these libraries are:
 <ol>•Pandas and NumPy, - this one is used for numerical operation and data manipulation </ol>
 <ol>•Matplotlib and seaborn - this library is used for the visualization of data. </ol>
