@@ -71,4 +71,22 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h4>•	Bmi </h4>
 <h4>VIF analysis as well as model training were influenced by these observations.</h4>
 
+<h1>Multicollinearity Check (VIF)</h1>  
+
+<h4>Variance Inflation Factor (VIF) was calculated:</h4>  
+<h4>•	All features showed VIF values within acceptable limits (<10).</h4>
+<h4>•	No strong multicollinearity was detected.</h4>
+  
+<h3>Model Training </h3>
+
+<h4>•	Separation/splitting of data, the datasets split into 80% training and 20% testing sets.</h4>
+<h4>•	The training data was used to initialize as well as train a linear regression model.</h4>
+<h4>•	Model trained successfully without error.
+</h4>
+  
+<h3>Model Evaluation</h3> 
+<h4>There were predictions that were made on the test set. </h4>  
+<h3> Evaluation Metrics</h3>
+
+
 
