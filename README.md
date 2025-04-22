@@ -19,9 +19,58 @@
 <p><h3>The variables that are categorical (sex, smoker, and region) needs the encoding to be utilized in linear regression model. Andrea and Sarah, 2016) showed that One-hot encoding is a very suitable method in order to convert these categorical features into representations that are numerical without introducing ordinal relationships. while linear regression assumes a relationship that is linear between variables, it is also important to appreciate that some relationships can happen to not be linear. Andrea and Sarah, 2016) showed that if there is a violation of the linear assumption, exploring other models that are non-linear could potentially improve prediction accuracy. The region variable may capture underlying socio access differences that influence medical charges. During the feature selection and model interpretation, these features should be considered. Moreover, ethical consideration needs to be addressed when the model is used for decision making. Possible sex, geographic, or smoking-related biases might deliver unfair or results that are discriminating. </h3></p>
 
 
-<h1>Conclusion</h1>  
+<h3>Conclusion</h3>  
 
 <p><h4>In conclusion, the dataset is suitable to implement a linear regression algorithm with pre-processing that is appropriate. Andrea and Sarah, 2016) showed that the numerical features are aligning with the requirements of the model, and categorical features can also be transformed by utilizing techniques of encoding.</h4></p>
+
+<h1> 2)  Planning Analysis Report </h1>
+ 
+<h3>Introduction </h3> 
+ 
+This section contains a detailed, and a comprehensive plan for conducting a linear regression analysis in order to predict medical charges based on the lifestyle as well as demographic factors. The main objective is to make sure that all aspects of the data analysis process are considered carefully and closely executed to develop a model that is accurate and effective.  
+a) Exploratory Data Analysis (EDA):   
+Data Loading and Inspection: 
+(Andrea and Sarah, 2016) showed that the datasets that are provided will be loaded using pandas on vs code, this will be followed by the inspection of data types. (.info ()), then there will be a summary of descriptive statistics (. describe ()), then an examination of the values that are missing.  
+Data Cleaning: 
+(Andrea and Sarah, 2016) showed that if there are any missing values, they will be dealt with using imputation methods that are appropriate, these methods include mean or median for features that are numerical, and mode for those that are categorical. If there are any outliers, they will be identified and addressed using box ploys and z-score analysis, maybe by transforming values. Rows that are duplicate will be removed to ensure data integrity.  
+Data Visualization: 
+(Andrea and Sarah, 2016) showed that in order to visualise the relationships between variables I will implement seaborn and matplotlib. Also, the scatter plots will be implemented to illustrate the correlation between the features that are numerical and charges. The distribution of features that are numerical will be shown using distribution plots and histograms. In order to estimate the multicollinearity among numerical predictors, there will be a creation of correlation matrix (heatmap). 
+ 
+ 
+ b) Feature Selection:  
+ 
+(Andrea and Sarah, 2016) showed that Feature selection is important because it ensures that there is an inclusion of the variables that are most relevant and non-redundant in the regression model.  
+Correlation matrix: (Andrea and Sarah, 2016) showed that this will visualise pairwise correlations between features and the variable targeted.  
+Variance Inflation Factor (VIF):  this will Check for multicollinearity as well as getting rid of highly correlated features if there is a need. 
+Backward Elimination: I will then utilize the p-values from an Ordinary Least Squares (OLS) regression summary to iteratively remove features that are less significant. 
+c) Training the model:  
+(Andrea and Sarah, 2016) showed that after the preparation of the features and their selection, the model training will then start:  
+Train-Test Split: I will separate the dataset into training and testing sets using an 80/20 ratio for evaluation to be fair.  
+Linear Regression Model: I will utilize the Linear Regression from sklearn. linear model to fit the model on the training data. 
+Model performance: the performance of the model will be assessed using metrics such as mean squared error, and R-squared. Cross validation (k-fold) will be implemented to evaluate the robustness of the model and also prevent overfitting.  
+d) Interpret and evaluate model:  
+(Andrea and Sarah, 2016) showed that after the training of the model, there will be an assessment of the model and interpretation to determine how well it predicts charges: 
+The evaluation metrics are as follows:  
+Mean Absolute Error (MAE) 
+Mean Squared Error (MSE) 
+Root Mean Squared Error (RMSE) 
+R² Score to measure the explanatory power of the model. 
+Predicted vs. Actual Plot: Visualize how closely the charges that are predicted match the actual charges. 
+Residual Analysis: Plot residuals to check for constant variance and normal distribution of errors. 
+Interpret Coefficients: Explain how each feature affects the predicted cost (for example, being a smoker increases charges by X units). 
+ 
+e) Report Writing   
+(Andrea and Sarah, 2016) showed that after the analysis, I will then make clear and a 
+straightforward report that has the following subheadings:  
+•	A dataset overview and the initial data inspection  
+•	An EDA steps explanation, this will include visual findings.  
+•	Feature selection details as well as justification 
+•	An explanation of the used regression model, training process as well as validation.  
+•	Metrics evaluation, visual results as well as the model accuracy interpretation 
+•	Conclusions as well as insights of how the medical aid scheme can use the model to personalise the strategies for pricing.  
+•	References at the end  
+ 
+
 
 
 # Report Section
