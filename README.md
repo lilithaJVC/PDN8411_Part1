@@ -121,10 +121,10 @@ value
 
 | Metric | Value | 
 | - | :- | 
-| Mean absolute error (MAE) | 9999999999 |
-| Mean square error (MSE) | 999999999 | 
-| Root Mean Square (RMS) | 99999999 |
-| R² Score | 9999999 |
+| Mean absolute error (MAE) | 3969,03 |
+| Mean square error (MSE) | 30444091,53 | 
+| Root Mean Square (RMS) | 5517,62 |
+| R² Score | 0,78 |
 
 
 
