@@ -4,9 +4,9 @@
 
 <h1>Libraries used</h1>
 <p><h3>In this coding analysis, there are libraries that were used, and these libraries are:
-<ul>Pandas and NumPy, - this one is used for numerical operation and data manipulation </ul>
-<ul>Matplotlib and seaborn - this library is used for the visualization of data. </ul>
-<ul>	Script.stats – this uses Z-score to detect outliers </ul>
-<ul>Statsmidels – this is for the calculation of multicollinearity using the variance inflation factor (VIF)</ul>
-<ul>Sklearn – that is used for development and evaluation of machine learning and evaluation. </ul>  </h3></p>
+<ol>Pandas and NumPy, - this one is used for numerical operation and data manipulation </ol>
+<ol>Matplotlib and seaborn - this library is used for the visualization of data. </ol>
+<ol>	Script.stats – this uses Z-score to detect outliers </ol>
+<ol>Statsmidels – this is for the calculation of multicollinearity using the variance inflation factor (VIF)</ol>
+<ol>Sklearn – that is used for development and evaluation of machine learning and evaluation. </ol>  </h3></p>
 
