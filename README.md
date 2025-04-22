@@ -16,6 +16,8 @@
 
 <h1>Dataset overview </h1>  
 
+![Image](https://github.com/user-attachments/assets/a32879e4-a4d6-4600-bf55-0425409fad44)
+
 <p><h4>Insurance.csv is the dataset that was provided and used in this analysis, it has the following features:
 <ol>•	Age: the age of a beneficiary </ol>
 <ol>•	Sex: which is the gender of the beneficiary </ol>
