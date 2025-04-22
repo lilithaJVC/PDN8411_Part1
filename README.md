@@ -74,6 +74,13 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h4>•	There is a strong positive trend observed for smokers more especially in BMI vs charges </h4>
 
 <h3>-Box Plots </h3>
+
+![Image](https://github.com/user-attachments/assets/adbef1e5-a7cf-4976-8e01-7eca2daec17f)
+
+![Image](https://github.com/user-attachments/assets/ee79af82-02f0-4d5b-922f-fe4e0150f568)
+
+![Image](https://github.com/user-attachments/assets/19fcf778-7961-4178-b51f-e712199da77d)
+
 <h3>The implementation of box plots grouped charges by:</h3>
 <h4>•	Smoker, sex, and region</h4>
 <h4>•	Smokers had higher charges </h4>
