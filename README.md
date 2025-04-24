@@ -244,6 +244,8 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 
 <h4>   SDG Resource Centre, 2023. Regression Analysis. [Online] available at:https://sdgresources.relx.com/regression-analysis [acessed 19 April 2025]. </h4>
 
+<h4>Huddar, 2023. What are the Metrics used to Evaluate the performance of Regression Models in ML DM by Mahesh Huddar. [Video Online] Available at: < https://youtu.be/SH4soR1O7fY?si=uFTHbO0Z-Z8BugcP > [acessed 20 April 2025]. </h4>
+
 
 
 
