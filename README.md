@@ -235,8 +235,13 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 <h4>•	Residuals vs predicted plot showed randomness around zero, suggesting linear model appropriateness.</h4>
 
 
-<h1>Introduction</h1>
+<h1>Conclusion</h1>
 <p><h4>The linear regression model provides a strong predictive performance for medical insurance charges. Among the predictors, smoking status, age, and BMI have the most significant influence on charges. The model performed well with a reasonably high R² score and acceptable error metrics. This analysis highlights the value of lifestyle attributes in predicting healthcare costs, which could be useful for healthcare providers and insurance companies to assess risk and set premiums.</h4></p>
+
+<h1>References</h1>
+
+<h4> Andreas, C. and Sarah, G., 2016. Introduction to machine learning with python. 1st ed. Sebastopol: O’Reilly media.   </h4>
+
 
 
 
