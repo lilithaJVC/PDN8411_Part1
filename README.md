@@ -29,7 +29,7 @@
  
 <p><h4>This section contains a detailed, and a comprehensive plan for conducting a linear regression analysis in order to predict medical charges based on the lifestyle as well as demographic factors. The main objective is to make sure that all aspects of the data analysis process are considered carefully and closely executed to develop a model that is accurate and effective.  </h4></p> 
 
-<p><h4>a)<h3>Exploratory Data Analysis (EDA):</h3>   
+<p><h4><h3>a)Exploratory Data Analysis (EDA):</h3>   
  
 <h4>Data Loading and Inspection: </h4>
 <h4>(Andrea and Sarah, 2016) showed that the datasets that are provided will be loaded using pandas on vs code, this will be followed by the inspection of data types. (.info ()), then there will be a summary of descriptive statistics (. describe ()), then an examination of the values that are missing.  </h4></p> 
@@ -41,14 +41,14 @@
 <h4>(Andrea and Sarah, 2016) showed that in order to visualise the relationships between variables I will implement seaborn and matplotlib. Also, the scatter plots will be implemented to illustrate the correlation between the features that are numerical and charges. The distribution of features that are numerical will be shown using distribution plots and histograms. In order to estimate the multicollinearity among numerical predictors, there will be a creation of correlation matrix (heatmap). </p></h4> 
  
  
-< b)<h3> Feature Selection:  </h3>
+<h3> b)Feature Selection:  </h3>
  
 <p><h4>(Andrea and Sarah, 2016) showed that Feature selection is important because it ensures that there is an inclusion of the variables that are most relevant and non-redundant in the regression model.  
 Correlation matrix: (Andrea and Sarah, 2016) showed that this will visualise pairwise correlations between features and the variable targeted.  
 Variance Inflation Factor (VIF):  this will Check for multicollinearity as well as getting rid of highly correlated features if there is a need. 
 Backward Elimination: I will then utilize the p-values from an Ordinary Least Squares (OLS) regression summary to iteratively remove features that are less significant. </h4></p>
 
-<h3>Training the model:</h3>c)  
+<h3>c)Training the model:</h3>  
 
 <p><h4>(Andrea and Sarah, 2016) showed that after the preparation of the features and their selection, the model training will then start:  
 Train-Test Split: I will separate the dataset into training and testing sets using an 80/20 ratio for evaluation to be fair.  
