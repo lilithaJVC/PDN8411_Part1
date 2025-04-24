@@ -242,6 +242,8 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 
 <h4> Andreas, C. and Sarah, G., 2016. Introduction to machine learning with python. 1st ed. Sebastopol: O’Reilly media.   </h4>
 
+<h4>   SDG Resource Centre, 2023. Regression Analysis. [Online] available at:https://sdgresources.relx.com/regression-analysis [acessed 19 April 2025]. </h4>
+
 
 
 
