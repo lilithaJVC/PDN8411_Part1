@@ -1,6 +1,7 @@
 
- # table of contents 
+ #Table of contents 
  
+ ![Image](https://github.com/user-attachments/assets/f00a1d24-3eab-47b4-b8ae-ed7864805b8e)
 
  
  # Evaluation of Dataset Suitability for Linear Regression
