@@ -210,15 +210,16 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
   
 <h3>Model Evaluation</h3> 
 <h4>There were predictions that were made on the test set. </h4>  
-<h3> Evaluation Metrics</h3>
+<h3> the below are the evaluation metrics used in our linear data analysis (Huddar, 2023)</h3>
 
 
 | Metric | Value | 
 | - | :- | 
-| Mean absolute error (MAE) | 3969,03 |
-| Mean square error (MSE) | 30444091,53 | 
-| Root Mean Square (RMS) | 5517,62 |
-| R² Score | 0,78 |
+| Mean absolute error (MAE) (Huddar, 2023)| 3969,03 |
+| Mean square error (MSE) (Huddar, 2023) | 30444091,53 | 
+| Root Mean Square (RMS) (Huddar, 2023) | 5517,62 |
+| R² Score (Huddar, 2023)| 0,78 |
+
 
 <h3> Cross-validation</h3>
 <h4>5-fold cross-validation was performed.</h4>
