@@ -183,8 +183,13 @@ The dataset was successfully loaded, and the rows were printed in order to inspe
 
 ![Image](https://github.com/user-attachments/assets/d60b7a3c-3938-481a-8a7b-cb9a207b8581)
 
-<h4>•	The correlation matrix displayed a strong correlation between smoker and charges </h4>
-<h4>•	It also displayed a moderate correlation between the age and charges </h4>
+<h4>the results of this show that Age has the highest positive correlation with charges and has the value 0.31, this indicates that older individuals tend to incur higher medical expenses.</h4>
+
+<h4>BMI on the other hand shows a positive but weaker correlation with the value 0.19 for charges. This suggests that individuals with higher body mass indices are likely to have slightly higher charges, which is consistent with medical risk assessments.</h4>
+
+<h4>Number of children has a very weak correlation with 0.1 value of charges, this implays that it does not significantly have an influence on  the prediction of medical costs </h4>
+
+<h4>there are no variables that  show a strong multicollinearity with one another, this means that all features could still contribute individually to the predictive model.</h4>
 
 
 <h1>Feature selection </h1>  
